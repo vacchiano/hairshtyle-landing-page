@@ -1,4 +1,3 @@
-# hairshtyle-landing-page
-Web Landing Page
+# vacchiano.github.io
 
-web design and dev
+readme
